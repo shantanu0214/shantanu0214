@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @shantanu0214
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Shantanu Nagapurkar - Portfolio Welcome to my professional portfolio! I am a Data Analyst with expertise in data analysis, software development, testing, automation, and web technologies. This portfolio highlights my skills, projects, and contributions in various technical areas. 👨‍💻 About Me I specialize in:
 
-<!---
-shantanu0214/shantanu0214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programming Languages: Python, Java, Ruby, Perl, JavaScript Web Technologies: HTML, CSS, JavaScript Operating Systems: Windows, Linux Virtualization: VMware, HyperV Networking: Networking concepts, troubleshooting RDBMS: MySQL, Oracle, SQL Server Automation: Shell scripting, automation testing, CI/CD Version Control: Git, SVN Bug & Test Management: Jira, TestRail Problem-Solving & Analytical Skills: Debugging, troubleshooting, and quality control I am passionate about solving complex technical challenges and continuously improving processes and systems through automation and efficient coding.
+
+🛠 Technical Skills:
+
+Category Skills Frontend Development HTML, CSS, JavaScript Backend Development Python, Java, Ruby, Perl Operating Systems Windows, Linux Networking Networking concepts, troubleshooting Automation & Scripting Shell scripting, automation, CI/CD Testing & Debugging Jira, TestRail, troubleshooting, debugging Version Control Git, SVN Virtualization VMware, HyperV Databases MySQL, Oracle, SQL Server
+
+🏆 Projects:
+
+Project 1: Digital Music Store Insights & Optimization Description: Analyzed data from a digital music store to uncover trends in customer behavior, track popularity, and sales patterns. The project involved customer segmentation, product recommendations, and sales forecasting to optimize marketing strategies and product offerings.
+
+Project 2: Data Analysis Using Python – Diwali Sales and Customer Insights Description: This project involved analyzing a large dataset of sales and customer information to extract actionable insights for a retail business. The goal was to improve customer retention, identify key sales trends, and optimize marketing strategies.
+
+Project 3: Sales Forecast – Time Series Analysis Description: This project involved performing a time series analysis to forecast future sales for a retail business using historical sales data. The objective was to build a predictive model that could help the business make informed decisions about inventory management, staffing, and marketing strategies based on anticipated sales patterns.
+
+Project 4: Customer Segmentation Using Clustering Model Description: This project focused on segmenting a customer base using clustering techniques to identify distinct customer groups based on their purchasing behavior. The segmentation helped the business tailor marketing strategies, personalized offers, and product recommendations to specific customer segments, thereby improving customer satisfaction and increasing sales.
+
+🎓 Education
+Master's Degree in Computer Science
+Savitribai Phule Pune University, [2024]
+
+🌐 Get In Touch
+LinkedIn: www.linkedin.com/in/shantanu-nagapurkar-53b1a0223
+GitHub: https://shantanu0214.github.io
+Email: shantanunagapurkar@gmail.com
+
+
+
+
+
